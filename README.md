@@ -1,3 +1,3 @@
-# There are some test
+# There are some tests
 Good luck,
 Have fun
